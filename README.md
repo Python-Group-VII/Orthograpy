@@ -1,4 +1,4 @@
-# Notipy
+# Ortograpy
 ## Participantes
 [@FranciscoJesusGata](https://github.com/FranciscoJesusGata)
 
