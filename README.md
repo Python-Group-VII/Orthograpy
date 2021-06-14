@@ -1,7 +1,7 @@
-# Plantilla del curso de desarrollo ágil 
+# Notipy
+## Participantes
+[@FranciscoJesusGata](https://github.com/FranciscoJesusGata)
 
-Plantilla para el [curso de desarrollo ágil](https://jj.github.io/curso-tdd)
+[@SilverIcarus](https://github.com/silvericarus)
 
-Contiene el mínimo para un proyecto, incluyendo una GitHub action que
-comprueba la presencia de ciertos ficheros, un directorio para los
-tests, y otro para la documentación.
+[@Vdedios](https://github.com/vdedios)
