@@ -1,6 +1,6 @@
 ---
 name: Issue de bajo nivel
-about: Issue de bajo nivel asociado a una historia de ususario.
+about: Issue de bajo nivel asociado a una historia de usuario.
 title: "[FEAT] / [FIX] / [TASK]"
 labels: 
 assignees: ''
