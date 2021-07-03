@@ -8,9 +8,10 @@ def file_reading(file):
     if(not os.path.isfile(file)):
         logging.error("El archivo no puede ser leído.")
     else:
-        file_opened = open(file, 'r')
+        file_opened = open(file, 'r', encoding='utf-8')
         for line in file_opened:
+            if(line.endswith('\n')):
+                line=line.removesuffix('\n')
             lines.append(line)
-            logging.info(line)
         file_opened.close()
     return (lines)

@@ -2,12 +2,11 @@
 
 import sys
 
-from spellchecker import SpellChecker
+from file_reading import file_reading
 
-spell = SpellChecker(language='es')
 
 def main():
-    print(spell.candidates('test'))
+    print(file_reading(sys.argv[1]))
 
 if __name__ == '__main__':
     main();
